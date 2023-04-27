@@ -1,0 +1,3 @@
+rootProject.name = 'polar-bookshop'
+
+include 'catalog-service'
